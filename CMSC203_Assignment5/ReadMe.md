@@ -15,6 +15,7 @@ User selects "Load Sales Data" to select the file containing the sales data. The
 - Using methods of the utility class within an existing GUI driver class
 ## Classes
 - Utility Classes: TwoDimRaggedArrayUtility.java, HolidayBonus.java
+- GUI (provided): MyGuiFxA.java
 - JUnit Tests: TwoDimRaggedArrayUtilitySTUDENT_Test.java, (provided) TwoDimRaggedArrayUtilityTest.java, (provided) HolidayBonusTest.java
 ## Assignment Grade
 - Assignment 5 Design Document (100/100)
