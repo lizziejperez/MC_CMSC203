@@ -10,7 +10,6 @@ Wind Chill (degrees Fahrenheit) = 35.74 + 0.6215T - 35.75(V^0.16) + 0.4275T(V^0.
 - Conditional statements
 - Logical operators
 - Eclipse IDE
-- GitHub
 ## Assignment Grade
 - Assignment 1 Design Document (100/100)
 - Assignment 1 Implementation (100/100)
