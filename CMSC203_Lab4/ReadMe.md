@@ -1,4 +1,4 @@
-# Lab 4 - Classes adn Objects (TV)
+# Lab 4 - Classes and Objects (TV)
 ## Objectives
 Be able to ...
 - Declare a new class 
